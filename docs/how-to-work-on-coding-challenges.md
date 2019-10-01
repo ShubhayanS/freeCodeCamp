@@ -5,7 +5,7 @@
 
 # How to work on coding challenges
 
-Our goal is to develop a fun and clear interactive learning experience.
+Our goal is to develop a fun and clear interactive learning experience to all the newbies in programming to even the people who come from some programming background.
 
 Designing interactive coding challenges is difficult. It would be much easier to write a lengthy explanation or to create a video tutorial, and there's a place for those on Medium and YouTube. However, for our core curriculum, we're sticking with what works best for most people - a fully interactive, video game-like experience.
 
